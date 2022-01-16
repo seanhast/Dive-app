@@ -1,0 +1,33 @@
+svg {
+  viewport-fill: black;
+}
+
+.large-value {
+  font-family: Seville-Book;
+  font-size: 50;
+  fill: fb-blue;
+  width: 100%;
+  text-anchor: middle;
+}
+
+.small-value {
+  font-family: Seville-Book;
+  font-size: 40;
+  fill: fb-white;
+  width: 100%;
+  text-anchor: middle;
+}
+.clock-time {
+  font-family: Seville-Book;
+  font-size: 40;
+  fill: fb-white;
+  width: 100%;
+  text-anchor: middle;
+}
+.hr-beat {
+  font-family: Seville-Book;
+  font-size: 40;
+  fill: fb-white;
+  width: 100%;
+  text-anchor: middle;
+}
