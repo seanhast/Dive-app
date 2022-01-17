@@ -2,6 +2,6 @@
   <image href="achtergrond.png"/>
   <use href="#button" x="0" y="-20" width="336" height="336">
     <set href="text" attributeName="text-buffer" to="DIVE"/>
-    <set href="handle" attributeName="id" to="detail-button" />
+    <set href="handle" attributeName="id" to="detail-button"/>
   </use>
 </svg

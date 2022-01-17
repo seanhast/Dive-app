@@ -40,7 +40,7 @@ export function init() {
     // Update the lavel with each reading from the sensor
     bar.addEventListener('reading', () => {
       altitudeInFeetElement.text =
-        altitudeFromPressure(bar.pressure / 100) + ' M';
+        altitudeFromPressure(bar.pressure / 100) + ' meter';
       pressureElement.text = Math.round(bar.pressure / 100) + ' hPa';
     });
 
