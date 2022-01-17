@@ -16,7 +16,7 @@
   },
   "fitbit": {
     "appType": "app",
-    "appDisplayName": "Fitbit Full Example",
+    "appDisplayName": "Dive app",
     "iconFile": "resources/icon.png",
     "wipeColor": "#ffffff",
     "requestedPermissions": [
